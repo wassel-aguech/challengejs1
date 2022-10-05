@@ -1,6 +1,3 @@
-
-
-
 function somme(){
 
   var tab=[]
