@@ -23,5 +23,5 @@ do {
     
 } while (x=y);
 
-alert("le nombre est trouve dans ",+coups+ "fois");
+alert("le nombre est trouve dans ",+coups+ "fois")
 
