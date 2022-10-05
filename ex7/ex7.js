@@ -8,7 +8,7 @@ var membre={
     grade:'g1',
 
     f1:function(){
-        return(membre.id,membre.name,membre.grade)
+        return(membre.id,membre.name,membre.grade);
     }
   
   }

@@ -14,4 +14,4 @@ var som=0;
     }
       alert(som);
 }
-somme()
+somme();

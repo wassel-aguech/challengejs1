@@ -14,11 +14,11 @@ do {
     y= prompt('sasir un entier y')
 
     if(x>y){
-        alert('pus grand')
-        coups++
+        alert('pus grand');
+        coups++;
     }else{
-        alert('plus petit')
-        coups++
+        alert('plus petit');
+        coups++;
     }
     
 } while (x=y);
