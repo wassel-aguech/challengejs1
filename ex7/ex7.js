@@ -19,7 +19,6 @@ function team() {
     }
 }
 
-
 var myTeam = new team()
 
 
