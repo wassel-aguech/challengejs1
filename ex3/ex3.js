@@ -11,6 +11,6 @@ if (x.value==""){
     if(y.value==""){
     alert('saisir votre prenom')}
     else{
-        alert('merci vous avez sasir  tout les information ')
+        alert('merci vous avez saisi  tout les informations ')
     }
 }}
