@@ -21,7 +21,6 @@ function team() {
 
 var myTeam = new team()
 
-
 myTeam.add(new member('1','wassel','candidat'))
 myTeam.add(new member('1','wassel','candidat'))
 myTeam.add(new member('1','wassel','candidat'))
